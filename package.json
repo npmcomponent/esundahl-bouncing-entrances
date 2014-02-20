@@ -1,0 +1,14 @@
+{
+  "name": "esundahl-bouncing-entrances",
+  "description": "bouncing entrance animations",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "esundahl-bounce-in": "git://github.com/npmcomponent/esundahl-bounce-in.git",
+    "esundahl-bounce-in-down": "git://github.com/npmcomponent/esundahl-bounce-in-down.git",
+    "esundahl-bounce-in-up": "git://github.com/npmcomponent/esundahl-bounce-in-up.git",
+    "esundahl-bounce-in-left": "git://github.com/npmcomponent/esundahl-bounce-in-left.git",
+    "esundahl-bounce-in-right": "git://github.com/npmcomponent/esundahl-bounce-in-right.git"
+  },
+  "license": "MIT"
+}
